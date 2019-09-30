@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.6" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="static\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\_$PROJECT_NAME$_.Database\_$PROJECT_NAME$_.Database.csproj" />
+    <ProjectReference Include="..\_$PROJECT_NAME$_.Services\_$PROJECT_NAME$_.Services.csproj" />
+    <ProjectReference Include="..\_$PROJECT_NAME$_.Utils\_$PROJECT_NAME$_.Utils.csproj" />
+  </ItemGroup>
+
+</Project>

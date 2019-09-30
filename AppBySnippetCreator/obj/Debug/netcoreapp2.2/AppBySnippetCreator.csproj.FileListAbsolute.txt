@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\AppBySnippetCreator\AppBySnippetCreator\bin\Debug\netcoreapp2.2\AppBySnippetCreator.deps.json
+C:\Users\User\source\repos\AppBySnippetCreator\AppBySnippetCreator\bin\Debug\netcoreapp2.2\AppBySnippetCreator.runtimeconfig.json
+C:\Users\User\source\repos\AppBySnippetCreator\AppBySnippetCreator\bin\Debug\netcoreapp2.2\AppBySnippetCreator.runtimeconfig.dev.json
+C:\Users\User\source\repos\AppBySnippetCreator\AppBySnippetCreator\bin\Debug\netcoreapp2.2\AppBySnippetCreator.dll
+C:\Users\User\source\repos\AppBySnippetCreator\AppBySnippetCreator\bin\Debug\netcoreapp2.2\AppBySnippetCreator.pdb
+C:\Users\User\source\repos\AppBySnippetCreator\AppBySnippetCreator\obj\Debug\netcoreapp2.2\AppBySnippetCreator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AppBySnippetCreator\AppBySnippetCreator\obj\Debug\netcoreapp2.2\AppBySnippetCreator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AppBySnippetCreator\AppBySnippetCreator\obj\Debug\netcoreapp2.2\AppBySnippetCreator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AppBySnippetCreator\AppBySnippetCreator\obj\Debug\netcoreapp2.2\AppBySnippetCreator.AssemblyInfo.cs
+C:\Users\User\source\repos\AppBySnippetCreator\AppBySnippetCreator\obj\Debug\netcoreapp2.2\AppBySnippetCreator.dll
+C:\Users\User\source\repos\AppBySnippetCreator\AppBySnippetCreator\obj\Debug\netcoreapp2.2\AppBySnippetCreator.pdb
